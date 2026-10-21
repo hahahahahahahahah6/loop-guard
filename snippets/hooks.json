@@ -1,0 +1,1 @@
+{"hooks":{"PostToolUse":[{"hooks":[{"command":"loop-guard hook --event post","type":"command"}],"matcher":"Bash"}],"PreToolUse":[{"hooks":[{"command":"loop-guard hook --event pre","type":"command"}],"matcher":"Edit|Write|Bash"}]}}
